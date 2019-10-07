@@ -8,4 +8,4 @@ These labs walks you through the steps required to create, build, and run a Serv
 * The ability to easily chain together microservices to form workflows via composition.
 
 ## PREREQUISITES FOR THIS LAB
-You will need an IBM Cloud Account. **[Click here to get started]**(https://ibm.biz/BdzhQy)
+You will need an IBM Cloud Account. [Click here to get started](https://ibm.biz/BdzhQy)
